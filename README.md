@@ -20,8 +20,7 @@ const cagri = {
         database: ["MySQL", "PostgreSQL", "MongoDB"],
         tools:    ["Git", "Docker", "VS Code", "Postman"]
     },
-    currentFocus: "Full Stack Web & Mobile Development",
-    learning:    ["System Design", "Clean Architecture", "DevOps"]
+    currentFocus: "Full Stack Web & Mobile Development"
 };
 ```
 
