@@ -8,8 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-mail@cagriyilmaz.com.tr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@cagriyilmaz.com.tr)
 [![Location](https://img.shields.io/badge/Location-İstanbul-E30A17?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Istanbul)
 
-<img src="https://komarev.com/ghpvc/?username=dev-cagri&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="profile views"/>
-
 </div>
 
 ---
