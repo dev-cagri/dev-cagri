@@ -65,51 +65,6 @@ const cagri = {
 
 </div>
 
----
-
-## GitHub İstatistikleri
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-cagri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-cagri&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFB454&currStreakLabel=58A6FF"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-cagri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="top languages"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dev-cagri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
-
-</div>
-
----
-
-## Öne Çıkan Projeler
-
-<div align="center">
-
-<a href="https://github.com/dev-cagri/obd">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-cagri&repo=obd&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-</a>
-<a href="https://github.com/dev-cagri/smsgateway">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-cagri&repo=smsgateway&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-</a>
-
-<a href="https://github.com/dev-cagri/trendyol-cat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-cagri&repo=trendyol-cat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-</a>
-<a href="https://github.com/dev-cagri/sheepjump">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-cagri&repo=sheepjump&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-</a>
-
-</div>
-
----
-
-## Katkı Grafiği
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-cagri&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFB454&hide_border=true&area=true" width="100%"/>
