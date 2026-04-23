@@ -1,24 +1,20 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Çağrı%20Yılmaz&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20İstanbul&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Merhaba%2C+ben+Ça%C4%9Fr%C4%B1!+%F0%9F%91%8B;Full+Stack+Developer+from+%C4%B0stanbul+%F0%9F%87%B9%F0%9F%87%B7;PHP+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%80%A2+Python;Her+g%C3%BCn+yeni+bir+%C5%9Fey+%C3%B6%C4%9Freniyorum+%F0%9F%9A%80" alt="Typing SVG"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Çağrı%20Yılmaz&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20İstanbul&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-cagriyilmaz.com.tr-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cagriyilmaz.com.tr/)
 [![Email](https://img.shields.io/badge/Email-mail@cagriyilmaz.com.tr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@cagriyilmaz.com.tr)
-[![Location](https://img.shields.io/badge/İstanbul-🇹🇷-E30A17?style=for-the-badge)](https://www.google.com/maps/place/Istanbul)
+[![Location](https://img.shields.io/badge/Location-İstanbul-E30A17?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Istanbul)
 
-<img src="https://komarev.com/ghpvc/?username=dev-cagri&label=Profil%20Görüntüleme&color=58a6ff&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=dev-cagri&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="profile views"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 Hakkımda
+## Hakkımda
 
 ```typescript
 const cagri = {
@@ -36,13 +32,12 @@ const cagri = {
 };
 ```
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -50,29 +45,19 @@ const cagri = {
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚛️ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -84,10 +69,10 @@ const cagri = {
 
 ---
 
-## 📊 GitHub İstatistikleri
+## GitHub İstatistikleri
 
 <div align="center">
-  
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-cagri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-cagri&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFB454&currStreakLabel=58A6FF"/>
 
@@ -103,7 +88,7 @@ const cagri = {
 
 ---
 
-## 🚀 Öne Çıkan Projeler
+## Öne Çıkan Projeler
 
 <div align="center">
 
@@ -125,7 +110,7 @@ const cagri = {
 
 ---
 
-## 📈 Katkı Grafiği
+## Katkı Grafiği
 
 <div align="center">
 
@@ -135,22 +120,22 @@ const cagri = {
 
 ---
 
-## 🤝 İletişim
+## İletişim
 
 <div align="center">
 
-Projelerim hakkında konuşmak, iş birliği yapmak veya sadece merhaba demek istersen — kapım her zaman açık! 👋
+Yeni projeler, iş birlikleri veya teknik sohbetler için iletişime geçebilirsin.
 
 <br/>
 
 <a href="https://cagriyilmaz.com.tr/">
-  <img src="https://img.shields.io/badge/🌐_Website-cagriyilmaz.com.tr-58A6FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Website-cagriyilmaz.com.tr-58A6FF?style=for-the-badge&labelColor=0D1117" />
 </a>
 <a href="mailto:mail@cagriyilmaz.com.tr">
-  <img src="https://img.shields.io/badge/📧_Email-Bana_Ula%C5%9F-D14836?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Email-Bana_Ula%C5%9F-D14836?style=for-the-badge&labelColor=0D1117" />
 </a>
 <a href="https://github.com/dev-cagri">
-  <img src="https://img.shields.io/badge/💻_GitHub-@dev--cagri-181717?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/GitHub-@dev--cagri-181717?style=for-the-badge&labelColor=0D1117" />
 </a>
 
 </div>
@@ -159,14 +144,6 @@ Projelerim hakkında konuşmak, iş birliği yapmak veya sadece merhaba demek is
 
 <div align="center">
 
-### 💡 Favori Sözüm
-
-> *"Kod, şair olmayanların şiiridir."*
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
-
-<sub>⭐️ Bir şeyler beğendiysen yıldız bırakmayı unutma!</sub>
 
 </div>
