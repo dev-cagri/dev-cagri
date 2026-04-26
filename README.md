@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Çağrı%20Yılmaz&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20İstanbul&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-cagriyilmaz.com.tr-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cagriyilmaz.com.tr/)
 [![Email](https://img.shields.io/badge/Email-mail@cagriyilmaz.com.tr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@cagriyilmaz.com.tr)
